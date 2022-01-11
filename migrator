@@ -1,6 +1,6 @@
-echo "This tool only supports v2 docker repositories."
 #!/bin/bash
 
+echo "This tool only supports v2 docker repositories."
 echo "If you have an unsecured repository, you will have to manually configure the login to allowed insecure repositories."
 echo
 
