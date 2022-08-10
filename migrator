@@ -22,7 +22,7 @@ read uname2
 echo "Please enter the password for the second docker repository:"
 read -s pword2
 echo
-docker login -u $uname1 -p $pword1 $repo1
+docker login -u $uname2 -p $pword2 $repo2
 echo
 
 echo
